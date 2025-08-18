@@ -96,6 +96,7 @@ To maintain alacrity, press F4 & Tale of the Soulkeeper Off-cooldown with Love S
 __**Heal Fortissimo Troubadour Build**__
 
 Optimizer link with settings: https://optimizer.discretize.eu/?s=yuF1kY4Nv1
+
 If you're not playing Fortissimo as healer, you can just copy the Heal Chronomancer gear.
 ```
 Head     : Harrier  / Monk | Amulet      : Harrier
