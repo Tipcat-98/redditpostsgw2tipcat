@@ -30,6 +30,7 @@ Then finally, on top of all of that, it also has boon extension available in Hol
 Call & Response and Altered Chord are also strong traits that could be taken when needed.
 
 __**Power Fortissimo Troubadour Build**__
+
 Optimizer link with settings: https://optimizer.discretize.eu/?s=JT3FShpAv1
 ```
 Head     : Berserker / Dragonhunter | Amulet      : Berserker
@@ -61,6 +62,7 @@ G.Master : Fortissimo            | G.Master : Superiority Complex | G.Master : V
 To maintain alacrity, press F4 & Tale of the Soulkeeper Off-cooldown with Love Song traited (simple).
 ```
 __**Power Altered Chord/Call and Response Troubadour Build**__
+
 Optimizer link with settings: https://optimizer.discretize.eu/?s=w3lLiQtcv1
 ```
 Head     : Berserker / Infiltration | Amulet      : Berserker
@@ -92,6 +94,7 @@ G.Master : Altered Chord         | G.Master : Superiority Complex | G.Master : V
 To maintain alacrity, press F4 & Tale of the Soulkeeper Off-cooldown with Love Song traited (simple).
 ```
 __**Heal Fortissimo Troubadour Build**__
+
 Optimizer link with settings: https://optimizer.discretize.eu/?s=yuF1kY4Nv1
 If you're not playing Fortissimo as healer, you can just copy the Heal Chronomancer gear.
 ```
@@ -129,7 +132,9 @@ To maintain alacrity (hah! you have 100% boon duration), just press F4.
 __**Condition Troubadour**__
 Condition Troubadour looks to be the weaker of the three archetypes but maybe it can surprise and cause some mayhem!
 Here are some build ideas, credits to Cemox
+
 __**Condition Fortissimo Troubadour Build**__
+
 Optimizer link with settings: <https://optimizer.discretize.eu/?s=5bpP7xkLv1>
 ```
 Head     : Viper     / Trapper | Amulet      : Viper
@@ -162,6 +167,7 @@ G.Master : Fortissimo            | G.Master : x                   | G.Master : M
 To maintain alacrity, press F4 & Tale of the Soulkeeper Off-cooldown with Love Song traited (simple).
 ```
 __**Celestial Alacrity Troubadour Build**__
+
 Optimizer link with settings: <https://optimizer.discretize.eu/?s=h5kRxhy1v1>
 ```
 Head     : Celestial / Trapper | Amulet      : Celestial  
