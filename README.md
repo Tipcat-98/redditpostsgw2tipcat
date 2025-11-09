@@ -5,7 +5,7 @@ So, I figured I should make a feedback post of my own and the sc help desk commu
 
 Let's start by reviewing the changes from the beta to release.
 
-__**Beta to release review**__
+## Beta to release review
 
 In the beta we saw power Troubadour doing around 48.6k damage with relatively little time to refine rotations as both me and Cemox didn't really have too much time during the beta. <br>
 As a note, I personally think that iteration of power Troubadour could hit 51k.
@@ -66,7 +66,7 @@ We also gained some Quality of Life through Wandering Minstrel now providing a n
 They also listened to prior feedback and changed our boon from Alacrity to Quickness, but this came in the troubled form of Life of the Party, which is something I will discuss later in this post. <br>
 I will say right now though that with the loss of Hold the Note, the danger of stacking Troubadours is lessend, although it was a cool addition and just changing our boon from Alacrity to Quickness was a large mitigation of that concern already.
 
-__**Feedback and bug list**__ <br>
+## Feedback and bug list <br>
 
 __Feedback__ <br>
 * Fortissimo: still overshadows the other grandmaster traits, but instead of nerfing it. Make other grandmasters bettter.
