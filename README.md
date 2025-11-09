@@ -97,20 +97,20 @@ Fortissimo overshadows the other 2 Grandmaster traits, this is in part due to Ca
 
 Call and Response effectively summons a phantasm that repeats the shatter, how unfortunate that it dysfunctional with both Phantasm and Shatter traits.
 To emphasise how broken it is, let's go over most traits that affects Pllusions and Shatters:
-Phantasmal Fury: Does not grant the afterimage fury
-Sharper Images: Makes the afterimage inflict bleeding.
-Blinding Dissipation: Does not grant the afterimage's shatter blindness.
-Shattered Concentration: Does not grant the afterimage's shatter boon removal.
-Mental Anguish: Does not work on the Afterimage's shatter.
-Sympathetic Visage: Test if afterimage takes condition
-Illusionary Inspiration: Works on Afterimage summon.
-Restorative Illusions: Does not work on the Afterimage's shatter.
-Cry of Pain: Does not work on the Afterimage's shatter.
-Maim the Disillusioned: Does not work on the Afterimage's shatter.
-Illusionary Defense: Does not work on the Afterimage's shatter.
-Bountiful Disillusionment: Does not work on the Afterimage's shatter.
-Mayhem: Does not work on the Afterimage's Flustering Flute (F2).
-Shredding: Does not work on the Afterimage's Lively Lute (F1).
+* Phantasmal Fury: Does not grant the afterimage fury
+* Sharper Images: Makes the afterimage inflict bleeding.
+* Blinding Dissipation: Does not grant the afterimage's shatter blindness.
+* Shattered Concentration: Does not grant the afterimage's shatter boon removal.
+* Mental Anguish: Does not work on the Afterimage's shatter.
+* Sympathetic Visage: Test if afterimage takes condition
+* Illusionary Inspiration: Works on Afterimage summon.
+* Restorative Illusions: Does not work on the Afterimage's shatter.
+* Cry of Pain: Does not work on the Afterimage's shatter.
+* Maim the Disillusioned: Does not work on the Afterimage's shatter.
+* Illusionary Defense: Does not work on the Afterimage's shatter.
+* Bountiful Disillusionment: Does not work on the Afterimage's shatter.
+* Mayhem: Does not work on the Afterimage's Flustering Flute (F2).
+* Shredding: Does not work on the Afterimage's Lively Lute (F1).
 
 For some of these traits you could argue that it says **when you use** or that it makes sense to not work, but for a trait that is effectively Chronophantasma but for Shatters it makes little sense for to not have any shatter effects or phantasm effects function with it.
 If it worked with Maim the Disillusioned and the other condition traits it would make it a very enticing pick for Condition Troubadour and it distinguishes it from power Troubadour which makes better use of Fortissimo.
