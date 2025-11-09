@@ -1,4 +1,5 @@
 Hi, you may know me as Tipcat aka the crazy cat person who mains Mesmer in PvE.
+
 Visions of Eternity, and by extension, Troubadour has been out for a little while now, and I have been playing it extensively in all types of content.
 
 So, I figured I should make a feedback post of my own and the sc help desk community's feedback and wanted changes.
@@ -8,28 +9,44 @@ Let's start by reviewing the changes from the beta to release.
 __**Beta to release review**__
 
 In the beta we saw power Troubadour doing around 48.6k damage with relatively little time to refine rotations as both me and Cemox didn't really have too much time during the beta.
+
 As a note, I personally think that iteration of power Troubadour could hit 51k.
 
 In the current release we see power Troubadour doing around 43k damage, with an alternative harder-to-play Power Block setup resulting in a 17% damage increase potential.
+
 Overall, power Troubadour plays a lot like power Virtuoso but it has some nice traits and distinctions to set it apart.
+
 A big one being Syncopate, which capitalises on the fact that Troubadour already has more frequent disables than any other Mesmer build.
+
 This opens up options and synergises with a lot of things within the Mesmer kit.
+
 For one we can take Shield as a viable off-hand weapon which is a first, but we can also take Power Block over Vicious Expressions in Domination which yields a nice damage increase resulting in a more active gameplay loop where you have to make sure you interrupt your target for damage.
+
 It also opens up use for potential use of Mantra of Distraction as a DPS tool.
 
 Condition Troubadour didn't see much play as a lot of interactions weren't working properly, and surprise, they still aren't working all too well.
+
 These include Call and Response not triggering Shatter effects like Maim the Disillusioned, Cry of Pain or even Mayhem.
+
 More detail will be spent talking about Call and Response later in this post.
+
 We did see dedicated players managing to push condition and condition quickness Troubadour to 37k and 33k, respectively.
+
 Which makes it look not completely devoid of hope as a build.
 
+
 Heal Troubadour while providing more raw heal output and barrier, is still found to be lacking a lot of utility compared to its older sibling in Heal Chronomancer.
+
 This has been remedied a little bit by giving Tale of the Honorable Rogue Aegis instead of Stability.
+
 Distortion share is not as big of a balance shakeup anymore in today's Guild Wars 2 as other forms of utility and tools have been power crept in its absence, which means it doesn't really have too much of an unique advantage over Heal Chronomancer.
+
 Taking Tale of the August Queen also means sacrificing a lot of CC output due to dropping Signet of Humility.
+
 But we will also go into Heal Chronomancer a tiny bit and what could be done in this post.
 
 In the release we saw a fair amount of nerfs to our damage output but also changes that made the rotation easier to execute, unforatunely I think the nerfs were a bit overzealous and the gameplay changes a bit lacking since we still struggle a fair bit.
+
 But okay, what actually changed?
 
     Reverberating Lute: This skill has been reworked and renamed Lively Lute. Send damaging sound waves toward an enemy and healing tones toward allies.
@@ -58,10 +75,15 @@ But okay, what actually changed?
     Altered Chord: This trait now requires an instrument to consume at least one note to grant the Crescendo recharge.
 
 Overall, the changes made the rotations easier to execute because we are less note starved with the new Harmonize trait iteration, as well as the Tales no longer rely as much on the corresponding instrument for maximum effect.
+
 But as mentioned we lost some damage through Fortissimo going from 5 to 4% all stats per instrument, and by losing the Harmonize modifier per instrument.
+
 The new Symponic Resonance trait is a very cool addition that goes with the flavour of each instrument.
+
 We also gained some Quality of Life through Wandering Minstrel now providing a note every seconds outside of combat, in a similar fashion to Virtuoso.
+
 They also listened to prior feedback and changed our boon from Alacrity to Quickness, but this came in the troubled form of Life of the Party, which is something I will discuss later in this post.
+
 I will say right now though that with the loss of Hold the Note, the danger of stacking Troubadours is lessend, although it was a cool addition and just changing our boon from Alacrity to Quickness was a large mitigation of that concern already.
 
 __**Feedback and bug list**__
@@ -113,18 +135,25 @@ To emphasise how broken it is, let's go over most traits that affects Pllusions 
 * Shredding: Does not work on the Afterimage's Lively Lute (F1).
 
 For some of these traits you could argue that it says **when you use** or that it makes sense to not work, but for a trait that is effectively Chronophantasma but for Shatters it makes little sense for to not have any shatter effects or phantasm effects function with it.
+
 If it worked with Maim the Disillusioned and the other condition traits it would make it a very enticing pick for Condition Troubadour and it distinguishes it from power Troubadour which makes better use of Fortissimo.
+
 Another pain point with the afterimage of Call and Response is that it does not have fury, making it a very RNG-heavy trait for power to pick since you could easily not get a critical hit with the afterimage shatter.
+
 So our request to the devs is to go over the shatter and illusion traits and consider if they should work on the afterimage.
 
 Altered Chord is a cool trait in that it reduces the trait of Crescendo per shatter used and empowers Crescendo (F5) depending on the last shatter used before it.
+
 But right now it provides little competition as a DPS trait because of the uptime of the Lively Lute (F1) damage modifier.
 
 Lively Lute is a nice change and puts more emphasis on the healing theme, which is something Troubadour is clearly designed around.
+
 But, it lost its piercing quality, which I would argue was unnecessary due to it being quite short range already.
 
 Harmonious Harp is an okay change but in this current iteration the optimal way to utilise it for DPS is to stow it once you get the buff.
+
 I personally do not mind this too much but I know that many people find it offputting to have to stow for DPS.
 
 Tale of the Tortued Mastermind was rather heavily nerfed as before it dealt around 75k damage per cast mostly by its synergy with Syncopate.
+
 But I wonder if keeping the old design but nerfing the base damage of the skill itself some and reducing the pulses by 1 would be a nicer choice.
