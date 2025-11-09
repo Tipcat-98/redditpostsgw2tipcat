@@ -91,8 +91,8 @@ B. Going downstate removes all instruments, and there are other cases where all 
 C. Bosses phasing at certain timings can be hard to deal with / Phases are hard to adapt your rotation around. <br>
 
 __Bugs__ <br>
-* Call and Response: does not spawn the afterimage if no enemy is nearby or the enemy is invulnerable, this ruins the supportive aspects of the trait.
-* Ego Restoration: does not grant a clone when used with Tale of the Second Scion.
+* Call and Response (Troubadour): does not spawn the afterimage if no enemy is nearby or the enemy is invulnerable, this ruins the supportive aspects of the trait.
+* Ego Restoration (Inspiration): does not grant a clone when used with Tale of the Second Scion.
 * Inspiring Distortion (Inspiration): Does not work with Harmonious Harp (F4)
 
 ## Point-by-point Community Feedback <br>
@@ -115,7 +115,7 @@ To emphasise how broken it is, let's go over most traits that affects Pllusions 
 * Mayhem: Does not work on the Afterimage's Flustering Flute (F2).
 * Shredding: Does not work on the Afterimage's Lively Lute (F1).
 
-For some of these traits you could argue that it says **when you use** or that it makes sense to not work, but for a trait that is effectively Chronophantasma but for Shatters it makes little sense for to not have any shatter effects or phantasm effects function with it.  <br>
+For some of these traits you could argue that it says **when you use**, or it's an illusion not a phantasm, or that it makes sense to not work because x, but for a trait that is effectively Chronophantasma but for Shatters it makes little sense for it to not work with any shatter effects or phantasm effects. <br>
 If it worked with Maim the Disillusioned and the other condition traits it would make it a very enticing pick for condition Troubadour and it distinguishes it from power Troubadour which makes better use of Fortissimo.  <br>
 Another pain point with the afterimage of Call and Response is that it does not have fury, making it a very RNG-heavy trait for power to pick since you could easily not get a critical hit with the afterimage shatter.  <br>
 So our request to the devs is to go over the shatter and illusion traits and consider if they should work on the afterimage. 
@@ -165,8 +165,8 @@ C: Bosses with phases often leading to very awkward time when returning to the b
 
 We would like if maintaining instruments and using shatters still felt precise and not spammy like how shatters are used on condition Virtuoso, as an example, but were more forgiving on bosses that phase. <br>
 Some suggestions towards this aim are: <br> 
-* Reduce the cooldown of the elite Tale in PvE (suggested above)
+* Reduce the cooldown of the elite Tale in PvE (suggested above).
 * Make the instruments stack buff duration, instead of overwriting the current buff if it is shorter or ignoring if the current buff is longer than the new one.
-* Increase the base duration of the buff while reducing the duration per note (one example is 8 second base and 4 per note)
+* Increase the base duration of the buff while reducing the duration per note (one example is 8 second base and 4 per note).
 
 **Shatters** not feeling too impactful to hit is a sentiment also shared by people in our community, this refers to the specific feeling of hitting the ability not that it doesn't do enough damage or have a good enough effect.
