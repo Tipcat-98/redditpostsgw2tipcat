@@ -83,7 +83,7 @@ __Feedback__ <br>
 * Instruments are now stripped on status reset
 * Shatters don't feel impactful to hit, even though they have nice effects and/or damage. More feeling related than numbers related.
 
-* Instrument buff upkeep can be very punishing:
+* Instrument buff upkeep can be very punishing:  <br>
 A. Messing up your rotation is hard to recover from. <br>
 B. Going downstate removes all instruments, and there are other cases where all your instruments can be removed (transforms etc). <br>
 C. Bosses phasing at certain timings can be hard to deal with / Phases are hard to adapt your rotation around. <br>
