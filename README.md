@@ -94,7 +94,7 @@ __Bugs__ <br>
 * Inspiring Distortion (Inspiration): Does not work with Harmonious Harp (F4)
 * Auspicious Anguish: Test if it converts conditions
 
-__**Point-by-point Community Feedback**__ <br>
+## Point-by-point Community Feedback <br>
 Fortissimo overshadows the other 2 Grandmaster traits, this is in part due to Call and Response being so broken with Shatter traits.
 
 Call and Response effectively summons a phantasm that repeats the shatter, how unfortunate that it dysfunctional with both Phantasm and Shatter traits. <br>
