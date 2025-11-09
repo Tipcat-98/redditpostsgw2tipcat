@@ -77,6 +77,7 @@ __Feedback__ <br>
 * Mayhem: give it an additional condition or change the current condition for the CD, maybe give it CDR on disable (like Syncopate)?
 * Tale of the Second Scion: give it some condition cleanse as well to make it a more attractive option for healing.
 * Tale of the Tortured Mastermind: Overnerfed?
+* Tale of the August Queen: Lower cooldown in PvE.
 * Might upkeep: Increase might duration on Lively Lute and Tale of the Soulkeeper.
 * Love Song: Effectively a dead trait, even in PvP.
 * Instrument UI visibility.
@@ -134,11 +135,32 @@ What would feel more on theme would maybe be to give the cooldown reduction when
 
 **Tale of the Second Scion**, to give it some additional value over Mantra of Recovery and to give Troubadour something it lacks in its kit, a condition cleanse would be very nice. <br>
 
-**Tale of the Tortued Mastermind** was rather heavily nerfed as before it dealt around 75k damage per cast mostly by its synergy with Syncopate.  <br>
-But I wonder if keeping the old design but nerfing the base damage of the skill itself some and reducing the pulses by 1 would be a nicer choice.
+**Tale of the Tortued Mastermind** was rather heavily nerfed, maybe justifiably so, as before it dealt around 75k damage per cast mostly by its synergy with Syncopate.  <br>
+But I wonder if keeping the old design but nerfing the base damage of the skill itself some and reducing the pulses by 1 would be a healthier choice, considering our other utilities do not deal too much damage.
+
+**Tale of the August Queen**, as a way to counter the difficulty of maintaining instruments in bosses with phases, a nice change would to lower the cooldown of the elite to 40 seconds in PvE. <br>
+This would allow us to have up more frequently for phases to jumpstart our instruments more easily again after losing them in phases. <br>
+A concern of this is obviously the distortion share, which is why I would only change this in PvE but again I wish to re-iterate that in the current balance of Guild Wars 2 and with the value of Signet of Humility's CC, the distortion share is not as egregious anymore. <br>
+Tale of the August Queen is already a high price to pay compared to other Mesmer specs that can take Signet of Humility with a much smaller loss.
 
 **Might upkeep**, on boon dps Troubadour is a bit hard since the might duration on Tale of the Soulkeeper is 15 seconds when the skill has a 16 second cooldown. <br>
 This feels quite bad, and to have to invest a very small amount of boon duration to fix this feels quite bad. <br>
 Similarly, on Lively Lute, a 8 second might duration on a 9.6 second cooldown (plus cast time) makes it inadequate for upkeeping might. <br>
 To distinguish it from Boon Chronomancer and give it an additional edge it would be an easy fix to change these might durations to allow it to upkeep might easily.
 
+**Love Song** with the change of Life of the Party being the boon trait now, it no longer seems to do much in PvE.<br>
+A Heal Troubadour would take Life of the Party to provide boons, obviously. A DPS Troubadour takes Shredding, so which archetype takes Love Song?<br>
+Even in PvP, I would argue Love Song has very little value as you would either take Shredding for the raw damage it provides or Life of the Party as a DPS or Support to provide boons to yourself or allies. <br>
+So when does Love Song, in this iteration, currently see play?
+
+**Instruments**, we've had some people complaining about instrument visibility, in that it can be hard to see the buff uptime clearly. <br>
+Another change from the beta that heavily messes with power Troubadour is that instruments are now stripped on status reset, such as on starting a raid boss, as our opener is generally to precast Harmonious Harp (F4) and Tale of the August Queen. <br>
+We would like to see this reverted as this functioned just fine in the beta and it would force us to either time our F4 before the status reset or make weaker openers to compensate. <br>
+**Instrument Upkeep** is very punishing, as mentioned in the above short feedback list it is due to three things: <br>
+A. If you were to mess up your rotation, it is very hard to recover from. <br>
+B. Going downstate or experiencing transformations or similar will remove all instrument buffs <br>
+C: Bosses with phases often leading to very awkward time when returning to the boss, trying to regain control of all your instruments again <br>
+
+We would like 
+
+**Shatters** not feeling too impactful to hit is a sentiment also shared by people in our community, this refers to the specific feeling of hitting the ability not that it doesn't do enough damage or have a good enough effect.
