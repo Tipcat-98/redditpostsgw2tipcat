@@ -1,5 +1,4 @@
-Hi, you may know me as Tipcat aka the crazy cat person who mains Mesmer in PvE.
-
+Hi, you may know me as Tipcat aka the crazy cat person who mains Mesmer in PvE. <br>
 Visions of Eternity, and by extension, Troubadour has been out for a little while now, and I have been playing it extensively in all types of content.
 
 So, I figured I should make a feedback post of my own and the sc help desk community's feedback and wanted changes.
@@ -11,40 +10,26 @@ __**Beta to release review**__
 In the beta we saw power Troubadour doing around 48.6k damage with relatively little time to refine rotations as both me and Cemox didn't really have too much time during the beta. <br>
 As a note, I personally think that iteration of power Troubadour could hit 51k.
 
-In the current release we see power Troubadour doing around 43k damage, with an alternative harder-to-play Power Block setup resulting in a 17% damage increase potential.
-
-Overall, power Troubadour plays a lot like power Virtuoso but it has some nice traits and distinctions to set it apart.
-
-A big one being Syncopate, which capitalises on the fact that Troubadour already has more frequent disables than any other Mesmer build.
-
-This opens up options and synergises with a lot of things within the Mesmer kit.
-
-For one we can take Shield as a viable off-hand weapon which is a first, but we can also take Power Block over Vicious Expressions in Domination which yields a nice damage increase resulting in a more active gameplay loop where you have to make sure you interrupt your target for damage.
-
-It also opens up use for potential use of Mantra of Distraction as a DPS tool.
+In the current release we see power Troubadour doing around 43k damage, with an alternative harder-to-play Power Block setup resulting in a 17% damage increase potential. <br>
+Overall, power Troubadour plays a lot like power Virtuoso but it has some nice traits and distinctions to set it apart. <br>
+A big one being Syncopate, which capitalises on the fact that Troubadour already has more frequent disables than any other Mesmer build. <br>
+This opens up options and synergises with a lot of things within the Mesmer kit. <br>
+For one we can take Shield as a viable off-hand weapon which is a first, but we can also take Power Block over Vicious Expressions in Domination which yields a nice damage increase resulting in a more active gameplay loop where you have to make sure you interrupt your target for damage. <br>
+It also opens up use for potential use of Mantra of Distraction as a DPS tool. 
 
 Condition Troubadour didn't see much play as a lot of interactions weren't working properly, and surprise, they still aren't working all too well.
-
-These include Call and Response not triggering Shatter effects like Maim the Disillusioned, Cry of Pain or even Mayhem.
-
-More detail will be spent talking about Call and Response later in this post.
-
-We did see dedicated players managing to push condition and condition quickness Troubadour to 37k and 33k, respectively.
-
-Which makes it look not completely devoid of hope as a build.
+These include Call and Response not triggering Shatter effects like Maim the Disillusioned, Cry of Pain or even Mayhem. <br>
+More detail will be spent talking about Call and Response later in this post. <br>
+We did see dedicated players managing to push condition and condition quickness Troubadour to 37k and 33k, respectively. <br>
+Which makes it look not completely devoid of hope as a build. 
 
 
 Heal Troubadour while providing more raw heal output and barrier, is still found to be lacking a lot of utility compared to its older sibling in Heal Chronomancer.
-
-This has been remedied a little bit by giving Tale of the Honorable Rogue Aegis instead of Stability.
-
-Distortion share is not as big of a balance shakeup anymore in today's Guild Wars 2 as other forms of utility and tools have been power crept in its absence, which means it doesn't really have too much of an unique advantage over Heal Chronomancer.
-
-Taking Tale of the August Queen also means sacrificing a lot of CC output due to dropping Signet of Humility.
-
-But we will also go into Heal Chronomancer a tiny bit and what could be done in this post.
-
-In the release we saw a fair amount of nerfs to our damage output but also changes that made the rotation easier to execute, unforatunely I think the nerfs were a bit overzealous and the gameplay changes a bit lacking since we still struggle a fair bit.
+This has been remedied a little bit by giving Tale of the Honorable Rogue Aegis instead of Stability. <br>
+Distortion share is not as big of a balance shakeup anymore in today's Guild Wars 2 as other forms of utility and tools have been power crept in its absence, which means it doesn't really have too much of an unique advantage over Heal Chronomancer. <br>
+Taking Tale of the August Queen also means sacrificing a lot of CC output due to dropping Signet of Humility. <br>
+But we will also go into Heal Chronomancer a tiny bit and what could be done in this post. <br>
+In the release we saw a fair amount of nerfs to our damage output but also changes that made the rotation easier to execute, unforatunely I think the nerfs were a bit overzealous and the gameplay changes a bit lacking since we still struggle a fair bit. <br>
 
 But okay, what actually changed?
 
