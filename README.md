@@ -117,7 +117,7 @@ To emphasise how broken it is, let's go over most traits that affects Pllusions 
 * Shredding: Does not work on the Afterimage's Lively Lute (F1).
 
 For some of these traits you could argue that it says **when you use** or that it makes sense to not work, but for a trait that is effectively Chronophantasma but for Shatters it makes little sense for to not have any shatter effects or phantasm effects function with it.  <br>
-If it worked with Maim the Disillusioned and the other condition traits it would make it a very enticing pick for Condition Troubadour and it distinguishes it from power Troubadour which makes better use of Fortissimo.  <br>
+If it worked with Maim the Disillusioned and the other condition traits it would make it a very enticing pick for condition Troubadour and it distinguishes it from power Troubadour which makes better use of Fortissimo.  <br>
 Another pain point with the afterimage of Call and Response is that it does not have fury, making it a very RNG-heavy trait for power to pick since you could easily not get a critical hit with the afterimage shatter.  <br>
 So our request to the devs is to go over the shatter and illusion traits and consider if they should work on the afterimage. 
 
