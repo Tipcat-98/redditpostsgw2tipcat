@@ -6,6 +6,7 @@ So, I figured I should make a feedback post of my own and the sc help desk commu
 Let's start by reviewing the changes from the beta to release.
 
 __**Beta to release review**__
+
 In the beta we saw power Troubadour doing around 48.6k damage with relatively little time to refine rotations as both me and Cemox didn't really have too much time during the beta.
 As a note, I personally think that iteration of power Troubadour could hit 51k.
 
@@ -17,14 +18,15 @@ For one we can take Shield as a viable off-hand weapon which is a first, but we 
 It also opens up use for potential use of Mantra of Distraction as a DPS tool.
 
 Condition Troubadour didn't see much play as a lot of interactions weren't working properly, and surprise, they still aren't working all too well.
-These include Call and Response (CnR) not triggering Shatter effects like Maim the Disillusioned, Cry of Pain or even Mayhem.
-More detail will be spent talking about CnR later in this post.
+These include Call and Response not triggering Shatter effects like Maim the Disillusioned, Cry of Pain or even Mayhem.
+More detail will be spent talking about Call and Response later in this post.
 We did see dedicated players managing to push condition and condition quickness Troubadour to 37k and 33k, respectively.
 Which makes it look not completely devoid of hope as a build.
 
 Heal Troubadour while providing more raw heal output and barrier, is still found to be lacking a lot of utility compared to its older sibling in Heal Chronomancer.
 This has been remedied a little bit by giving Tale of the Honorable Rogue Aegis instead of Stability.
 Distortion share is not as big of a balance shakeup anymore in today's Guild Wars 2 as other forms of utility and tools have been power crept in its absence, which means it doesn't really have too much of an unique advantage over Heal Chronomancer.
+Taking Tale of the August Queen also means sacrificing a lot of CC output due to dropping Signet of Humility.
 But we will also go into Heal Chronomancer a tiny bit and what could be done in this post.
 
 In the release we saw a fair amount of nerfs to our damage output but also changes that made the rotation easier to execute, unforatunely I think the nerfs were a bit overzealous and the gameplay changes a bit lacking since we still struggle a fair bit.
@@ -62,13 +64,67 @@ We also gained some Quality of Life through Wandering Minstrel now providing a n
 They also listened to prior feedback and changed our boon from Alacrity to Quickness, but this came in the troubled form of Life of the Party, which is something I will discuss later in this post.
 I will say right now though that with the loss of Hold the Note, the danger of stacking Troubadours is lessend, although it was a cool addition and just changing our boon from Alacrity to Quickness was a large mitigation of that concern already.
 
-Let's dig into specific, meaningful changes a bit.
-Lively Lute is a cool change and puts more emphasis on the healing theme, which is something Troubadour is clearly designed around.
+__**Feedback and bug list**__
+
+__Feedback__
+* Fortissimo: still overshadows the other grandmaster traits, but instead of nerfing it. Make other grandmasters bettter.
+* Call and Response (the Afterimage): is not spawned with Fury.
+* Call and Response (the Afterimage): is not functioning with shatter traits like Cry of Pain (Illusions), Maim the Disillusioned (Illusions), Mayhem (Troubadour) and similar.
+* Lively Lute (F1): Pierce removed
+* Harmonious Harp (F4): To utilise it effectively for DPS you want to stow it, this is a pain point for the many.
+* Mayhem: give it an additional condition or change the current condition for the CD, maybe give it CDR on disable (like Syncopate)?
+* Tale of the Second Scion: give it some condition cleanse as well to make it a more attractive option for healing.
+* Tale of the Tortured Mastermind: Overnerfed?
+* Might upkeep: Increase duration on Lively Lute and Tale of the Soulkeeper.
+* Love Song: Effectively a dead trait, even in PvP.
+* Instrument UI visibility.
+* Instruments are now stripped on status reset
+* Shatters don't feel impactful to hit, even though they have nice effects and/or damage. More feeling related than numbers related.
+
+* Instrument buff upkeep can be very punishing:
+A. Messing up your rotation is hard to recover from.
+B. Going downstate removes all instruments, and there are other cases where all your instruments can be removed (transforms etc).
+C. Bosses phasing at certain timings can be hard to deal with / Phases are hard to adapt your rotation around.
+
+__Bugs__
+* Call and Response: does not spawn the afterimage if no enemy is nearby or the enemy is invulnerable, this ruins the supportive aspects of the trait.
+* Ego Restoration: does not grant a clone when used with Tale of the Second Scion.
+* Inspiring Distortion (Inspiration): Does not work with Harmonious Harp (F4)
+* Auspicious Anguish: Test if it converts conditions
+
+__**Point-by-point Community Feedback**__
+Fortissimo overshadows the other 2 Grandmaster traits, this is in part due to Call and Response being so broken with Shatter traits.
+
+Call and Response effectively summons a phantasm that repeats the shatter, how unfortunate that it dysfunctional with both Phantasm and Shatter traits.
+To emphasise how broken it is, let's go over most traits that affects Pllusions and Shatters:
+Phantasmal Fury: Does not grant the afterimage fury
+Sharper Images: Makes the afterimage inflict bleeding.
+Blinding Dissipation: Does not grant the afterimage's shatter blindness.
+Shattered Concentration: Does not grant the afterimage's shatter boon removal.
+Mental Anguish: Does not work on the Afterimage's shatter.
+Sympathetic Visage: Test if afterimage takes condition
+Illusionary Inspiration: Works on Afterimage summon.
+Restorative Illusions: Does not work on the Afterimage's shatter.
+Cry of Pain: Does not work on the Afterimage's shatter.
+Maim the Disillusioned: Does not work on the Afterimage's shatter.
+Illusionary Defense: Does not work on the Afterimage's shatter.
+Bountiful Disillusionment: Does not work on the Afterimage's shatter.
+Mayhem: Does not work on the Afterimage's Flustering Flute (F2).
+Shredding: Does not work on the Afterimage's Lively Lute (F1).
+
+For some of these traits you could argue that it says **when you use** or that it makes sense to not work, but for a trait that is effectively Chronophantasma but for Shatters it makes little sense for to not have any shatter effects or phantasm effects function with it.
+If it worked with Maim the Disillusioned and the other condition traits it would make it a very enticing pick for Condition Troubadour and it distinguishes it from power Troubadour which makes better use of Fortissimo.
+Another pain point with the afterimage of Call and Response is that it does not have fury, making it a very RNG-heavy trait for power to pick since you could easily not get a critical hit with the afterimage shatter.
+So our request to the devs is to go over the shatter and illusion traits and consider if they should work on the afterimage.
+
+Altered Chord is a cool trait in that it reduces the trait of Crescendo per shatter used and empowers Crescendo (F5) depending on the last shatter used before it.
+But right now it provides little competition as a DPS trait because of the uptime of the Lively Lute (F1) damage modifier.
+
+Lively Lute is a nice change and puts more emphasis on the healing theme, which is something Troubadour is clearly designed around.
 But, it lost its piercing quality, which I would argue was unnecessary due to it being quite short range already.
 
 Harmonious Harp is an okay change but in this current iteration the optimal way to utilise it for DPS is to stow it once you get the buff.
 I personally do not mind this too much but I know that many people find it offputting to have to stow for DPS.
 
-Tale of the Tortued Mastermind was rather heavily nerfed as before it dealt around 75k damage per cast mostly by its synergy with Syncopate, which is a wonderful trait.
+Tale of the Tortued Mastermind was rather heavily nerfed as before it dealt around 75k damage per cast mostly by its synergy with Syncopate.
 But I wonder if keeping the old design but nerfing the base damage of the skill itself some and reducing the pulses by 1 would be a nicer choice.
-
