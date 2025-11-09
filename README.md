@@ -79,6 +79,7 @@ __Feedback__ <br>
 * Tale of the Tortured Mastermind: Overnerfed?
 * Tale of the August Queen: Lower cooldown in PvE.
 * Might upkeep: Increase might duration on Lively Lute and Tale of the Soulkeeper.
+* Life of the Party: Concerns with how boons are applied.
 * Love Song: Effectively a dead trait, even in PvP.
 * Instrument UI visibility.
 * Instruments are now stripped on status reset
@@ -147,6 +148,8 @@ Tale of the August Queen is already a high price to pay compared to other Mesmer
 This feels quite bad, and to have to invest a very small amount of boon duration to fix this feels quite bad. <br>
 Similarly, on Lively Lute, a 8 second might duration on a 9.6 second cooldown (plus cast time) makes it inadequate for upkeeping might. <br>
 To distinguish it from Boon Chronomancer and give it an additional edge it would be an easy fix to change these might durations to allow it to upkeep might easily.
+
+**Life of the Party**, [boon on F4 instead of scattered?]
 
 **Love Song** with the change of Life of the Party being the boon trait now, it no longer seems to do much in PvE.<br>
 A Heal Troubadour would take Life of the Party to provide boons, obviously. A DPS Troubadour takes Shredding, so which archetype takes Love Song?<br>
