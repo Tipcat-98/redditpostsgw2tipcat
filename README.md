@@ -94,7 +94,6 @@ __Bugs__ <br>
 * Call and Response: does not spawn the afterimage if no enemy is nearby or the enemy is invulnerable, this ruins the supportive aspects of the trait.
 * Ego Restoration: does not grant a clone when used with Tale of the Second Scion.
 * Inspiring Distortion (Inspiration): Does not work with Harmonious Harp (F4)
-* Auspicious Anguish: Test if it converts conditions
 
 ## Point-by-point Community Feedback <br>
 **Fortissimo** overshadows the other 2 Grandmaster traits, this is in part due to Call and Response being so broken with Shatter traits.
@@ -106,7 +105,7 @@ To emphasise how broken it is, let's go over most traits that affects Pllusions 
 * Blinding Dissipation: Does not grant the afterimage's shatter blindness.
 * Shattered Concentration: Does not grant the afterimage's shatter boon removal.
 * Mental Anguish: Does not work on the Afterimage's shatter.
-* Sympathetic Visage: Test if afterimage takes condition
+* Sympathetic Visage: Afterimage does not take conditions.
 * Illusionary Inspiration: Works on Afterimage summon.
 * Restorative Illusions: Does not work on the Afterimage's shatter.
 * Cry of Pain: Does not work on the Afterimage's shatter.
