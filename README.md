@@ -8,8 +8,7 @@ Let's start by reviewing the changes from the beta to release.
 
 __**Beta to release review**__
 
-In the beta we saw power Troubadour doing around 48.6k damage with relatively little time to refine rotations as both me and Cemox didn't really have too much time during the beta.
-
+In the beta we saw power Troubadour doing around 48.6k damage with relatively little time to refine rotations as both me and Cemox didn't really have too much time during the beta. <br>
 As a note, I personally think that iteration of power Troubadour could hit 51k.
 
 In the current release we see power Troubadour doing around 43k damage, with an alternative harder-to-play Power Block setup resulting in a 17% damage increase potential.
