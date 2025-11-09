@@ -161,6 +161,10 @@ A. If you were to mess up your rotation, it is very hard to recover from. <br>
 B. Going downstate or experiencing transformations or similar will remove all instrument buffs <br>
 C: Bosses with phases often leading to very awkward time when returning to the boss, trying to regain control of all your instruments again <br>
 
-We would like 
+We would like if maintaining instruments and using shatters still felt precise and not spammy like how shatters are used on condition Virtuoso, as an example, but were more forgiving on bosses that phase. <br>
+Some suggestions towards this aim are: <br> 
+* Reduce the cooldown of the elite Tale in PvE (suggested above)
+* Make the instruments stack buff duration, instead of overwriting the current buff if it is shorter or ignoring if the current buff is longer than the new one.
+* Increase the base duration of the buff while reducing the duration per note (one example is 8 second base and 4 per note
 
 **Shatters** not feeling too impactful to hit is a sentiment also shared by people in our community, this refers to the specific feeling of hitting the ability not that it doesn't do enough damage or have a good enough effect.
