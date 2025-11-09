@@ -77,7 +77,7 @@ __Feedback__ <br>
 * Mayhem: give it an additional condition or change the current condition for the CD, maybe give it CDR on disable (like Syncopate)?
 * Tale of the Second Scion: give it some condition cleanse as well to make it a more attractive option for healing.
 * Tale of the Tortured Mastermind: Overnerfed?
-* Might upkeep: Increase duration on Lively Lute and Tale of the Soulkeeper.
+* Might upkeep: Increase might duration on Lively Lute and Tale of the Soulkeeper.
 * Love Song: Effectively a dead trait, even in PvP.
 * Instrument UI visibility.
 * Instruments are now stripped on status reset
@@ -119,14 +119,26 @@ If it worked with Maim the Disillusioned and the other condition traits it would
 Another pain point with the afterimage of Call and Response is that it does not have fury, making it a very RNG-heavy trait for power to pick since you could easily not get a critical hit with the afterimage shatter.  <br>
 So our request to the devs is to go over the shatter and illusion traits and consider if they should work on the afterimage. 
 
-Altered Chord is a cool trait in that it reduces the trait of Crescendo per shatter used and empowers Crescendo (F5) depending on the last shatter used before it.  <br>
+__Altered Chord__ is a cool trait in that it reduces the trait of Crescendo per shatter used and empowers Crescendo (F5) depending on the last shatter used before it.  <br>
 But right now it provides little competition as a DPS trait because of the uptime of the Lively Lute (F1) damage modifier.
 
-Lively Lute is a nice change and puts more emphasis on the healing theme, which is something Troubadour is clearly designed around.  <br>
+**Lively Lute** is a nice change and puts more emphasis on the healing theme, which is something Troubadour is clearly designed around.  <br>
 But, it lost its piercing quality, which I would argue was unnecessary due to it being quite short range already.
 
 Harmonious Harp is an okay change but in this current iteration the optimal way to utilise it for DPS is to stow it once you get the buff.  <br>
 I personally do not mind this too much but I know that many people find it offputting to have to stow for DPS.
 
+Mayhem feels a bit weird in the current design of Troubadour since the condition for the cooldown reduction is a dodge and we, unlike Mirage, have no other synergies with dodges. <br>
+The meme currently is that it is a Mirage-at-home kind of deal. <br>
+What would feel more on theme would maybe be to give the cooldown reduction when you disable, so a condition version of Syncopate effectively.
+
+Tale of the Second Scion, to give it some additional value over Mantra of Recovery and to give Troubadour something it lacks in its kit, a condition cleanse would be very nice. <br>
+
 Tale of the Tortued Mastermind was rather heavily nerfed as before it dealt around 75k damage per cast mostly by its synergy with Syncopate.  <br>
 But I wonder if keeping the old design but nerfing the base damage of the skill itself some and reducing the pulses by 1 would be a nicer choice.
+
+Might upkeep, on boon dps Troubadour is a bit hard since the might duration on Tale of the Soulkeeper is 15 seconds when the skill has a 16 second cooldown. <br>
+This feels quite bad, and to have to invest a very small amount of boon duration to fix this feels quite bad. <br>
+Similarly, on Lively Lute, a 8 second might duration on a 9.6 second cooldown (plus cast time) makes it inadequate for upkeeping might. <br>
+To distinguish it from Boon Chronomancer and give it an additional edge it would be an easy fix to change these might durations to allow it to upkeep might easily.
+
