@@ -17,18 +17,19 @@ This opens up options and synergises with a lot of things within the Mesmer kit.
 For one we can take Shield as a viable off-hand weapon which is a first, but we can also take Power Block over Vicious Expressions in Domination which yields a nice damage increase resulting in a more active gameplay loop where you have to make sure you interrupt your target for damage. <br>
 It also opens up use for potential use of Mantra of Distraction as a DPS tool. 
 
-Condition Troubadour didn't see much play as a lot of interactions weren't working properly, and surprise, they still aren't working all too well.
+Condition Troubadour didn't see much play as a lot of interactions weren't working properly, and surprise, they still aren't working all too well. <br>
 These include Call and Response not triggering Shatter effects like Maim the Disillusioned, Cry of Pain or even Mayhem. <br>
 More detail will be spent talking about Call and Response later in this post. <br>
 We did see dedicated players managing to push condition and condition quickness Troubadour to 37k and 33k, respectively. <br>
 Which makes it look not completely devoid of hope as a build. 
 
 
-Heal Troubadour while providing more raw heal output and barrier, is still found to be lacking a lot of utility compared to its older sibling in Heal Chronomancer.
+Heal Troubadour while providing more raw heal output and barrier, is still found to be lacking a lot of utility compared to its older sibling in Heal Chronomancer. <br>
 This has been remedied a little bit by giving Tale of the Honorable Rogue Aegis instead of Stability. <br>
 Distortion share is not as big of a balance shakeup anymore in today's Guild Wars 2 as other forms of utility and tools have been power crept in its absence, which means it doesn't really have too much of an unique advantage over Heal Chronomancer. <br>
 Taking Tale of the August Queen also means sacrificing a lot of CC output due to dropping Signet of Humility. <br>
 But we will also go into Heal Chronomancer a tiny bit and what could be done in this post. <br>
+
 In the release we saw a fair amount of nerfs to our damage output but also changes that made the rotation easier to execute, unforatunely I think the nerfs were a bit overzealous and the gameplay changes a bit lacking since we still struggle a fair bit. <br>
 
 But okay, what actually changed?
@@ -58,16 +59,11 @@ But okay, what actually changed?
     Fortissimo: Reduced the attribute increase per instrument playing from 5% to 4%.
     Altered Chord: This trait now requires an instrument to consume at least one note to grant the Crescendo recharge.
 
-Overall, the changes made the rotations easier to execute because we are less note starved with the new Harmonize trait iteration, as well as the Tales no longer rely as much on the corresponding instrument for maximum effect.
-
-But as mentioned we lost some damage through Fortissimo going from 5 to 4% all stats per instrument, and by losing the Harmonize modifier per instrument.
-
-The new Symponic Resonance trait is a very cool addition that goes with the flavour of each instrument.
-
-We also gained some Quality of Life through Wandering Minstrel now providing a note every seconds outside of combat, in a similar fashion to Virtuoso.
-
-They also listened to prior feedback and changed our boon from Alacrity to Quickness, but this came in the troubled form of Life of the Party, which is something I will discuss later in this post.
-
+Overall, the changes made the rotations easier to execute because we are less note starved with the new Harmonize trait iteration, as well as the Tales no longer rely as much on the corresponding instrument for maximum effect. <br>
+But as mentioned we lost some damage through Fortissimo going from 5 to 4% all stats per instrument, and by losing the Harmonize modifier per instrument. <br>
+The new Symponic Resonance trait is a very cool addition that goes with the flavour of each instrument. <br>
+We also gained some Quality of Life through Wandering Minstrel now providing a note every seconds outside of combat, in a similar fashion to Virtuoso. <br>
+They also listened to prior feedback and changed our boon from Alacrity to Quickness, but this came in the troubled form of Life of the Party, which is something I will discuss later in this post. <br>
 I will say right now though that with the loss of Hold the Note, the danger of stacking Troubadours is lessend, although it was a cool addition and just changing our boon from Alacrity to Quickness was a large mitigation of that concern already.
 
 __**Feedback and bug list**__
