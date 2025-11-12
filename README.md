@@ -246,5 +246,5 @@ In terms of utility and CC it still falls really behind Chronomancer which is a 
 
 Overall, I'm hopeful that they can solve Troubadour as a whole but right now it's not looking that good, so with that, I hope for changes.
 
-Thanks for reading!
+Thanks for reading! <br>
 Cheers Tipcat.
