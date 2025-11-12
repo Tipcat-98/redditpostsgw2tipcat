@@ -132,7 +132,7 @@ That or rework it entirely as it is dysfunctional in its current state beyond do
 This is because it would grant it access to the shatter effects instantly, and give it access to instant cast condition cleanses from the Restorative Illusions (Inspiration) trait. <br>
 But I'm in favour of just making it work with all shatter as well as some illusion traits instead.
 
-**Altered Chord** is a cool trait in that it reduces the trait of Crescendo per shatter used and empowers Crescendo (F5) depending on the last shatter used before it.  <br>
+**Altered Chord** is a cool trait in that it reduces the cooldown of Crescendo per shatter used and empowers Crescendo (F5) depending on the last shatter used before it.  <br>
 But right now, it provides little competition as a DPS trait because of the uptime of the Lively Lute (F1) damage modifier. <br>
 It could also need something else, maybe make it reduce F1 to F4 shatter cooldowns when using Crescendo by a little?
 
