@@ -203,6 +203,8 @@ Some suggestions towards this aim are: <br>
 
 **Shatters** not feeling too impactful to hit is a sentiment also shared by people in our community, this refers to the specific feeling of hitting the ability, not that it doesn't do enough damage or have a good enough effect.
 
+**Fractals**, a nice Quality of Life feature, for both Troubadour and Virtuoso, is if the Mistlock Singularity would give you max notes/blades.
+
 ## Heal Troubadour vs. Heal Chronomancer <br>
 Currently, to sum it up neatly. <br>
 
