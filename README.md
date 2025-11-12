@@ -100,6 +100,7 @@ __Bugs__ <br>
 * Ego Restoration (Inspiration): Does not grant a clone when used with Tale of the Second Scion.
 * Wandering Minstrel (Troubadour): The note generation part says **blade** instead of **note**
 * Inspiring Distortion (Inspiration): Does not work with Harmonious Harp (F4)
+* Transform relics on Mesmer, like Relic of Nourys or Relic of the Living City, do not let us spawn clones when in the transformation.
 
 ## Point-by-point Community Feedback <br>
 **Fortissimo** overshadows the other 2 Grandmaster traits, this is in part due to Call and Response being so broken with Shatter traits.
