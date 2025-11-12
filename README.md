@@ -220,7 +220,7 @@ Second, remove some of Heal Chronomancer's Boon access in core traitlines. Heal 
 
 This would make it so Heal Chronomancer still works in low pressure situations and it keeps its niché in that it is really good for cc and utility.
 That idea of utility and cc has been of the core identities of Chronomancer throughout the years for me so removing that would be an unwise choice in my opinion, instead we could have it work for healing but barely.
-If that is the path taken, that would mean that Heal Chronomancer couldn't be picked for every boss fight because it couldn't stand the heal pressure.
+If that is the path taken, that would mean that Heal Chronomancer couldn't be picked for every boss fight because it couldn't stand the heal pressure. <br>
 With this you also wouldn't have to remove its access to both Alacrity and Quickness.
 
 ## Summary <br>
