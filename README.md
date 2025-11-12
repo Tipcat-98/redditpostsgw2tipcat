@@ -218,7 +218,7 @@ Instead my proposal to fix Heal Chronomancer's Dominance is twofold:
 First, nerf core healing of Mesmer by a large amount, this would be done by nerfing rifle and core traitlines while moving more into the Troubadour traitline and kits.
 Second, remove some of Heal Chronomancer's Boon access in core traitlines. Heal Troubadour would be less affected by this as we have Tales for boons.
 
-This would make it so Heal Chronomancer still works in low pressure situations and it keeps its niché in that it is really good for cc and utility.
+This would make it so Heal Chronomancer still work in low pressure situations and it keeps its niché in that it is really good for cc and utility.
 That idea of utility and cc has been of the core identities of Chronomancer throughout the years for me so removing that would be an unwise choice in my opinion, instead we could have it work for healing but barely.
 If that is the path taken, that would mean that Heal Chronomancer couldn't be picked for every boss fight because it couldn't stand the heal pressure. <br>
 With this you also wouldn't have to remove its access to both Alacrity and Quickness.
