@@ -103,7 +103,7 @@ __Bugs__ <br>
 * Transform relics on Mesmer, like Relic of Nourys or Relic of the Living City, do not let us spawn clones when in the transformation.
 
 ## Point-by-point Community Feedback <br>
-**Fortissimo** overshadows the other 2 Grandmaster traits, this is in part due to Call and Response being so broken with Shatter traits.
+**Fortissimo** overshadows the other 2 Grandmaster traits, this is in part due to Call and Response being so broken with Shatter traits, but mostly the other GMs need buffs. <br>
 
 **Call and Response** effectively summons a phantasm that repeats the shatter. <br>
 How unfortunate that it is dysfunctional with both Illusions and Shatter traits. <br>
@@ -123,8 +123,10 @@ To emphasise how broken it is, let's go over most traits that affect llusions an
 * Mayhem: Does not work on the Afterimage's Flustering Flute (F2).
 * Shredding: Does not work on the Afterimage's Lively Lute (F1).
 
-For some of these traits, you could argue that it says **when you use**, or it's an illusion, not a phantasm, or that it makes sense to not work because x, but for a trait that is effectively Chronophantasma, but for Shatters it makes little sense for it to not work with any shatter effects or phantasm effects. <br>
+For some of these traits, you could argue that it says **when you use**, or it's an illusion, not a phantasm, or that it makes sense to not work because xyz. <br>
+However, for a trait that is effectively Chronophantasma, but for Shatters it makes little sense for it to not work with any shatter effects or illusion effects. <br>
 If it worked with Maim the Disillusioned and the other condition traits it would make it a very enticing pick for condition Troubadour and it would distinguish it from power Troubadour, which makes better use of Fortissimo.  <br>
+
 Another pain point with the afterimage of Call and Response is that it does not have fury, making it a very RNG-heavy trait for power to pick, since you could easily not get a critical hit with the afterimage shatter.  <br>
 So our request to the devs is to go over the shatter and illusion traits and consider if they should work on the afterimage. <br>
 
@@ -175,7 +177,7 @@ To distinguish it from Boon Chronomancer and to give it an additional edge it wo
 
 **Life of the Party**, this goes hand-in-hand with Tale of the Soulkeeper, which currently gives quickness freely.
 There is a concern that if DPS Troubadour ever gets good DPS, you could run 4 or 3 (with soulkeeper) plus an Alacrity Chronomancer with Time Warp to upkeep permanent quickness.
-To counter this you could remove the quickness on Soulkeeper and make Tales give Quickness on use when taking Life of the Party..
+To counter this you could remove the quickness on Soulkeeper and make Tales give Quickness on use when taking Life of the Party.
 This solves another issue in that we currently have an awkward time providing quickness at 0% bd, due to duration and application windows.
 The application windows mean that if someone were to leave the squad for a mechanic, then they could drop quickness uptime really easily until you could cast F1, Soulkeeper or Crescendo again.
 
@@ -225,8 +227,8 @@ Doing so for one overperforming build when Chronomancer has existed since 2015, 
 Improved Alacrity is one choice, but it has also become an iconic trait, so much so that the developers have considered on the balance preview stream to make it baseline with Chronomancer. <br>
 I would then say that yes, it is iconic and it shouldn't be removed for one overperforming build, it provides something that is very thematically fitting for a time mage, seeing the cooldowns tick down faster when Improved Alacrity is traited is also a very cool feeling. 
 
-Instead, my proposal to fix Heal Chronomancer's Dominance is twofold:
-First, nerf core healing of Mesmer by a large amount. This would be done by nerfing rifle and core traitlines while moving more into the Troubadour traitline and kits (healing modifiers as an example).
+Instead, my proposal to fix Heal Chronomancer's Dominance is twofold: <br>
+First, nerf core healing of Mesmer by a large amount. This would be done by nerfing rifle and core traitlines while moving more into the Troubadour traitline and kits (healing modifiers as an example). <br>
 Second, remove some of Heal Chronomancer's Boon access in core traitlines. Heal Troubadour would be less affected by this as we have Tales for boons.
 
 This would make it so Heal Chronomancer still works in low-pressure situations, and it keeps its niché in that it is really good for cc and utility.
