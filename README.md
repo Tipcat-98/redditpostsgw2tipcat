@@ -7,7 +7,7 @@ Let's start by reviewing the changes from the beta to the release of the expansi
 
 ## Beta to release review
 
-In the beta, we saw power Troubadour doing around 48.6k damage with relatively little time to refine rotations, as both me and Cemox didn't really have too much time during the beta. <br>
+In the beta, we saw power Troubadour doing around 48.6k damage with relatively little time to refine rotations, as both Cemox and I didn't really have too much time during the beta. <br>
 As a note, I personally think that iteration of power Troubadour could hit 51k.
 
 In the current release, we see **power Troubadour** doing around 43k damage, with an alternative harder-to-play Power Block setup resulting in a 17% damage increase potential (around 50k with max uptime). <br>
@@ -105,8 +105,8 @@ __Bugs__ <br>
 ## Point-by-point Community Feedback <br>
 **Fortissimo** overshadows the other 2 Grandmaster traits, this is in part due to Call and Response being so broken with Shatter traits, but mostly the other GMs need buffs. <br>
 
-**Call and Response** effectively summons a phantasm that repeats the shatter. <br>
-How unfortunate that it is dysfunctional with both Illusions and Shatter traits. <br>
+**Call and Response** is effectively Chronophantasma but for Shatters. <br>
+How unfortunate then, that it is dysfunctional with both Illusions and Shatter traits. <br>
 To emphasise how broken it is, let's go over most traits that affect llusions and Shatters:
 * Phantasmal Fury: Does not grant the afterimage fury
 * Sharper Images: Makes the afterimage inflict bleeding.
@@ -124,7 +124,7 @@ To emphasise how broken it is, let's go over most traits that affect llusions an
 * Shredding: Does not work on the Afterimage's Lively Lute (F1).
 
 For some of these traits, you could argue that it says **when you use**, or it's an illusion, not a phantasm, or that it makes sense to not work because xyz. <br>
-However, for a trait that is effectively Chronophantasma, but for Shatters it makes little sense for it to not work with any shatter effects or illusion effects. <br>
+However, for a trait that is essentially Chronophantasma, but for Shatters it makes little sense for it to not work with any shatter effects or illusion effects. <br>
 If it worked with Maim the Disillusioned and the other condition traits it would make it a very enticing pick for condition Troubadour and it would distinguish it from power Troubadour, which makes better use of Fortissimo.  <br>
 
 Another pain point with the afterimage of Call and Response is that it does not have fury, making it a very RNG-heavy trait for power to pick, since you could easily not get a critical hit with the afterimage shatter.  <br>
@@ -167,12 +167,12 @@ So, an idea to buff the Tale would be to give it Barrier back as baseline and al
 
 **Tale of the August Queen**, as a way to counter the difficulty of maintaining instruments in bosses with phases, a nice change would to lower the cooldown of the elite to 40 seconds or give it 2 charges. <br>
 This would allow us to have up more frequently for phases to jumpstart our instruments more easily again after losing them in phases. <br>
-A concern of this is obviously the distortion share, which is why I would only change this in PvE, but again I wish to reiterate that in the current balance of Guild Wars 2 and with the value of Signet of Humility's CC, the distortion share is not as egregious anymore. <br>
+A concern of this is obviously the distortion share, which is why I would only change this in PvE, but again, I wish to reiterate that in the current balance of Guild Wars 2 and with the value of Signet of Humility's CC, the distortion share is not as egregious anymore. <br>
 Tale of the August Queen is already a high price to pay compared to other Mesmer specs that can take Signet of Humility with a much smaller loss.
 
 **Might upkeep**, on boon dps Troubadour is a bit hard since the might duration on Tale of the Soulkeeper is 15 seconds when the skill has a 16-second cooldown. <br>
 This feels quite bad, and to have to invest a very small amount of boon duration to fix this feels bad. <br>
-Similarly, on Lively Lute, an 8 second might duration on a 9.6-second cooldown (plus cast time) makes it inadequate for upkeeping might. <br>
+Similarly, on Lively Lute, an 8-second might duration on a 9.6-second cooldown (plus cast time) makes it inadequate for upkeeping might. <br>
 To distinguish it from Boon Chronomancer and to give it an additional edge it would be an easy fix to change these might durations to allow it to upkeep might easily.
 
 **Life of the Party**, this goes hand-in-hand with Tale of the Soulkeeper, which currently gives quickness freely.
@@ -195,13 +195,13 @@ We would like to see this reverted as this functioned just fine in the beta, and
 **Instrument Upkeep** is very punishing, as mentioned in the above short feedback list, it is due to three things: <br>
 A. If you were to mess up your rotation, it is very hard to recover from. <br>
 B. Going downstate or experiencing transformations or similar will remove all instrument buffs <br>
-C: Bosses with phases often leading to a very awkward time when returning to the boss, trying to regain control of all your instruments again <br>
+C: Bosses with phases often lead to a very awkward time when returning to the boss, trying to regain control of all your instruments again <br>
 
 We would like it if maintaining instruments and using shatters still felt precise and not spammy, like how shatters are used on condition Virtuoso, as an example, but were more forgiving on bosses that phase. <br>
 Some suggestions towards this aim are: <br> 
 * Reduce the cooldown of the elite Tale in PvE (suggested above).
 * Make the instruments stack buff duration, instead of overwriting the current buff if it is shorter or ignoring if the current buff is longer than the new one.
-* Increase the base duration of the buff while reducing the duration per note (one example is 8-second base and 4 per note). 
+* Increase the base duration of the buff while reducing the duration per note (one example is an 8-second base duration and 4-seconds per note). 
 
 **Shatters** not feeling too impactful to hit is a sentiment also shared by people in our community, this refers to the specific feeling of hitting the ability, not that it doesn't do enough damage or have a good enough effect.
 
@@ -229,10 +229,10 @@ I would then say that yes, it is iconic and it shouldn't be removed for one over
 
 Instead, my proposal to fix Heal Chronomancer's Dominance is twofold: <br>
 First, nerf core healing of Mesmer by a large amount. This would be done by nerfing rifle and core traitlines while moving more into the Troubadour traitline and kits (healing modifiers as an example). <br>
-Second, remove some of Heal Chronomancer's Boon access in core traitlines. Heal Troubadour would be less affected by this as we have Tales for boons.
+Second, remove some of Heal Chronomancer's Boon access in core traitlines. Heal Troubadour would be less affected by this, as we have Tales for boons.
 
 This would make it so Heal Chronomancer still works in low-pressure situations, and it keeps its niché in that it is really good for cc and utility.
-That idea of utility and cc has been of the core identities of Chronomancer throughout the years for me so removing that would be an unwise choice in my opinion. Instead we could have it work for healing but barely.
+That idea of utility and cc has been of the core identities of Chronomancer throughout the years for me so removing that would be an unwise choice in my opinion. Instead, we could have it work for healing, but barely.
 If that is the path taken, that would mean that Heal Chronomancer couldn't be picked for every boss fight because it couldn't stand the heal pressure. <br>
 With this, you also wouldn't have to remove its access to both Alacrity and Quickness.
 
@@ -240,13 +240,13 @@ With this, you also wouldn't have to remove its access to both Alacrity and Quic
 
 While some changes from beta to release were beneficial for our overall gameplay, the nerfs were a bit overzealous.
 The gameplay could still see more improvement when it comes to playing DPS on bosses with phasing due to the difficulty of upkeeping instruments.
-Call and Response is a largely dysfunctional trait due to it not really working with either illusion or shatter traits. What is its identity? A chronophantasma for shatters or is it a phantasm, or let it be both?
+Call and Response is a largely dysfunctional trait because it doesn't really work with either illusion or shatter traits. What is its identity? A chronophantasma for shatters or is it a phantasm, or let it be both?
 
 Heal Troubadour saw some improvements but also some steps back on its path to actually compete with Heal Chronomancer as a healer.
 Tale of the Honorable Rogue is a really strong skill, while Tale of the Valiant Marshal sees little purpose in its new iteration.
 In terms of utility and CC it still falls really behind Chronomancer which is a large drawback when healing in this game is generally overtuned.
 
-Overall, I'm hopeful that they can solve Troubadour as a whole but right now it's not looking that good, so with that, I hope for changes.
+Overall, I'm hopeful they can solve Troubadour as a whole, but right now it's not looking that good, so with that, I hope for changes.
 
 Thanks for reading! <br>
 Cheers Tipcat.
