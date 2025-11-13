@@ -25,7 +25,7 @@ Which makes it look not completely devoid of hope as a build.
 
 **Heal Troubadour**, while providing more raw heal output and barrier, is still found to be lacking a lot of utility compared to its older sibling in Heal Chronomancer. <br>
 This has been remedied a little bit by giving Tale of the Honorable Rogue Aegis instead of Stability. <br>
-However, other Tales saw a reduction if performance with the removal of some of its effects. <br>
+However, other Tales saw a reduction of performance with the removal of their performance effects. <br>
 Distortion share is not as big of a balance shakeup anymore in today's Guild Wars 2 as other forms of utility and tools have been power crept in its absence, which means it doesn't really have too much of an unique advantage over Heal Chronomancer. <br>
 Taking Tale of the August Queen also means sacrificing a lot of CC output due to dropping Signet of Humility. <br>
 But we will also go into Heal Chronomancer a tiny bit, and what could be done in this post. <br>
