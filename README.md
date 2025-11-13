@@ -66,7 +66,7 @@ The new Symphonic Resonance trait is a very cool addition that goes with the fla
 We also gained some Quality of Life through Wandering Minstrel now providing a note every 10 seconds outside of combat, in a similar fashion to Virtuoso. <br>
 They also listened to prior feedback and changed our boon from Alacrity to Quickness, but this came in the troubled form of Life of the Party, which is something I will discuss later in this post. <br>
 Some of the Tales don't feel too responsive, and some lost their usefulness when the performance bonus was changed.
-I will say right now though that with the loss of Hold the Note, the danger of stacking Troubadours is lessend, although it was a cool addition, and just changing our boon from Alacrity to Quickness was a large mitigation of that concern already.
+I will say right now though, that with the loss of Hold the Note, the danger of stacking Troubadours is lessened, although it was a cool addition, and just changing our boon from Alacrity to Quickness was a large mitigation of that concern already.
 
 ## Feedback and bug list <br>
 
@@ -106,7 +106,7 @@ __Bugs__ <br>
 **Fortissimo** overshadows the other 2 Grandmaster traits, this is in part due to Call and Response being so broken with Shatter traits, but mostly the other GMs need buffs. <br>
 
 **Call and Response** is effectively Chronophantasma but for Shatters. <br>
-How unfortunate then, that it is dysfunctional with both Illusions and Shatter traits. <br>
+How unfortunate, then, that it is dysfunctional with both Illusions and Shatter traits. <br>
 To emphasise how broken it is, let's go over most traits that affect llusions and Shatters:
 * Phantasmal Fury: Does not grant the afterimage fury
 * Sharper Images: Makes the afterimage inflict bleeding.
@@ -124,7 +124,7 @@ To emphasise how broken it is, let's go over most traits that affect llusions an
 * Shredding: Does not work on the Afterimage's Lively Lute (F1).
 
 For some of these traits, you could argue that it says **when you use**, or it's an illusion, not a phantasm, or that it makes sense to not work because xyz. <br>
-However, for a trait that is essentially Chronophantasma, but for Shatters it makes little sense for it to not work with any shatter effects or illusion effects. <br>
+However, for a trait that is essentially Chronophantasma, but for Shatters it makes little sense for it not to work with any shatter effects or illusion effects. <br>
 If it worked with Maim the Disillusioned and the other condition traits it would make it a very enticing pick for condition Troubadour and it would distinguish it from power Troubadour, which makes better use of Fortissimo.  <br>
 
 Another pain point with the afterimage of Call and Response is that it does not have fury, making it a very RNG-heavy trait for power to pick, since you could easily not get a critical hit with the afterimage shatter.  <br>
@@ -139,7 +139,7 @@ But right now, it provides little competition as a DPS trait because of the upti
 It could also need something else, maybe make it reduce F1 to F4 shatter cooldowns when using Crescendo by a little?
 
 **Lively Lute** is a nice change and puts more emphasis on the healing theme, which is something Troubadour is clearly designed around.  <br>
-But, it lost its piercing quality, which I would argue was unnecessary due to it being quite short-range already.
+But it lost its piercing quality, which I would argue was unnecessary due to it being quite short-range already.
 
 **Harmonious Harp** is an okay change but in this current iteration, the optimal way to utilise it for DPS is to stow it once you get the buff.  <br>
 I personally do not mind this too much but I know that many people find it off-putting to have to stow for DPS. <br>
@@ -156,7 +156,7 @@ So one proposal to buff Tales in general is to give them all 2 charges.
 **Tale of the Second Scion**, to give it some additional value over Mantra of Recovery and to give Troubadour something it lacks in its kit, a condition cleanse would be very nice. <br>
 
 **Tale of the Tortured Mastermind** was rather heavily nerfed, maybe justifiably so, as before it dealt around 75k damage per cast, mostly by its synergy with Syncopate.  <br>
-But I wonder if keeping the old design but nerfing the base damage of the skill itself some and reducing the pulses by 1 would be a healthier choice, considering our other utilities do not deal too much damage. <br>
+But I wonder if keeping the old design but nerfing the base damage of the skill itself somewhat and reducing the pulses by 1 would be a healthier choice, considering our other utilities do not deal too much damage. <br>
 This skill also doesn't give the player much feedback as in, it just seems to disappear after casting it. <br>
 To remedy this, it could be given a lingering AoE for the duration it is active with a nasty aura (they ought to be in a sour mood after getting hit with vicious mockery).
 
@@ -166,8 +166,8 @@ The resistance isn't that enticing because we have a decent chunk on rifle 5 whe
 So, an idea to buff the Tale would be to give it Barrier back as baseline and also slightly reduce the cooldown.
 
 **Tale of the August Queen**, as a way to counter the difficulty of maintaining instruments in bosses with phases, a nice change would to lower the cooldown of the elite to 40 seconds or give it 2 charges. <br>
-This would allow us to have up more frequently for phases to jumpstart our instruments more easily again after losing them in phases. <br>
-A concern of this is obviously the distortion share, which is why I would only change this in PvE, but again, I wish to reiterate that in the current balance of Guild Wars 2 and with the value of Signet of Humility's CC, the distortion share is not as egregious anymore. <br>
+This would allow us to have it up more frequently for phases, facilitating a way to jumpstart our instruments more easily again after losing them in splitphases. <br>
+A concern of this is obviously the distortion share, which is why I would only change the cooldown in PvE, but again, I wish to reiterate that in the current balance of Guild Wars 2 and with the value of Signet of Humility's CC, the distortion share is not as egregious anymore. <br>
 Tale of the August Queen is already a high price to pay compared to other Mesmer specs that can take Signet of Humility with a much smaller loss.
 
 **Might upkeep**, on boon dps Troubadour is a bit hard since the might duration on Tale of the Soulkeeper is 15 seconds when the skill has a 16-second cooldown. <br>
@@ -177,7 +177,7 @@ To distinguish it from Boon Chronomancer and to give it an additional edge it wo
 
 **Life of the Party**, this goes hand-in-hand with Tale of the Soulkeeper, which currently gives quickness freely.
 There is a concern that if DPS Troubadour ever gets good DPS, you could run 4 or 3 (with soulkeeper) plus an Alacrity Chronomancer with Time Warp to upkeep permanent quickness.
-To counter this you could remove the quickness on Soulkeeper and make Tales give Quickness on use when taking Life of the Party.
+To counter this, you could remove the quickness on Soulkeeper and make Tales give Quickness on use when taking Life of the Party.
 This solves another issue in that we currently have an awkward time providing quickness at 0% bd, due to duration and application windows.
 The application windows mean that if someone were to leave the squad for a mechanic, then they could drop quickness uptime really easily until you could cast F1, Soulkeeper or Crescendo again.
 
@@ -191,7 +191,7 @@ A visual criticism of the Instruments is that they are too pink compared to thei
 While this bright pink is nice for visibility, it also seems to lack a bit of dimensionality due to lacking a clear texture, which other illusionary things do not.
 
 Another change from the beta that heavily messes with power Troubadour is that instruments are now stripped on status reset, such as on starting a raid boss, as our opener is generally to precast Harmonious Harp (F4) and Tale of the August Queen. <br>
-We would like to see this reverted as this functioned just fine in the beta, and it would force us to either time our F4 before the status reset or make weaker openers to compensate. <br>
+We would like to see this reverted, as this functioned just fine in the beta, and it would force us to either time our F4 before the status reset or make weaker openers to compensate. <br>
 **Instrument Upkeep** is very punishing, as mentioned in the above short feedback list, it is due to three things: <br>
 A. If you were to mess up your rotation, it is very hard to recover from. <br>
 B. Going downstate or experiencing transformations or similar will remove all instrument buffs <br>
@@ -203,7 +203,7 @@ Some suggestions towards this aim are: <br>
 * Make the instruments stack buff duration, instead of overwriting the current buff if it is shorter or ignoring if the current buff is longer than the new one.
 * Increase the base duration of the buff while reducing the duration per note (one example is an 8-second base duration and 4-seconds per note). 
 
-**Shatters** not feeling too impactful to hit is a sentiment also shared by people in our community, this refers to the specific feeling of hitting the ability, not that it doesn't do enough damage or have a good enough effect.
+**Shatters** not feeling too impactful to hit is a sentiment also shared by people in our community. This refers to the specific feeling of hitting the ability, not that it doesn't do enough damage or have a good enough effect.
 
 **Fractals**, a nice Quality of Life feature, for both Troubadour and Virtuoso, is if the Mistlock Singularity would give you max notes/blades.
 
@@ -223,7 +223,7 @@ Heal Chronomancer has over Heal Troubadour: <br>
 
 Let's get something out of the way. <br>
 We cannot remove or significantly maim Continuum Split; it is the core mechanic of the elite specialization. <br>
-Doing so for one overperforming build when Chronomancer has existed since 2015, and heal Chronomancer itself is a baby in comparison. <br>
+Doing so for one overperforming build when Chronomancer has existed since 2015, and heal Chronomancer itself is a baby in comparison, is ludicrous. <br>
 Improved Alacrity is one choice, but it has also become an iconic trait, so much so that the developers have considered on the balance preview stream to make it baseline with Chronomancer. <br>
 I would then say that yes, it is iconic and it shouldn't be removed for one overperforming build, it provides something that is very thematically fitting for a time mage, seeing the cooldowns tick down faster when Improved Alacrity is traited is also a very cool feeling. 
 
